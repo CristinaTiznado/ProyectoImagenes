@@ -1,0 +1,39 @@
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    background-color: beige;
+    margin: 0;
+    padding: 15px 0;
+    font-size: large;
+}
+
+.div1 {
+    background-color: chocolate;
+}
+
+.div2 {
+    background-color: thistle;
+}
+
+.div3 {
+    background-color: blanchedalmond;
+}
